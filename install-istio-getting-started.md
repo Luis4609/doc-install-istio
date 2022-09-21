@@ -1,5 +1,5 @@
 ## Getting started
-![URL](https://istio.io/latest/docs/setup/getting-started/)
+![Official site](https://istio.io/latest/docs/setup/getting-started/)
 #### Follow these steps to get started with Istio:
 1.  [Download and install Istio](https://istio.io/latest/docs/setup/getting-started/#download)
 2.  [Deploy the sample application](https://istio.io/latest/docs/setup/getting-started/#bookinfo)
