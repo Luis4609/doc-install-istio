@@ -47,3 +47,8 @@ Service mesh uses a proxy to intercept all your network traffic, allowing a broa
 An Envoy proxy is deployed along with each service that you start in your cluster, or runs alongside services running on VMs.
 
 ![Before utilizing Istio](https://istio.io/latest/img/service-mesh-before.svg)
+
+# NGINX Microservices Reference Architecture
+![image](https://user-images.githubusercontent.com/60436830/191675232-ab1301a7-6835-4412-a002-8f9f94bf3d87.png)
+![image](https://user-images.githubusercontent.com/60436830/191677844-5494580a-6bbd-4bf5-a2ef-ff9761c81d73.png)
+
